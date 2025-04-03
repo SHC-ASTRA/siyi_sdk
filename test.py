@@ -1,7 +1,7 @@
 import asyncio
 import logging
 
-from siyi_sdk import (
+from siyi import (
     SiyiGimbalCamera,
     CommandID,
     DataStreamType,
